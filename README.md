@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sclauguico&layout=compact)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/sclauguico/github-readme-stats)
