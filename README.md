@@ -19,6 +19,7 @@ Find my tutorials, project documentation, and career insights on:
 - GitHub (you're here!)
 - [Medium](https://medium.com/me/stories/public)
 - Various social media platforms
+- Philippine tech communities
 
 ## 🤝 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/sandy-lauguico-257592111/)
