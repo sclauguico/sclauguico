@@ -17,7 +17,7 @@ I'm deeply engaged in Full Stack Software Engineering (Data & AI), working on pr
 ## 📝 Content Creation
 Find my tutorials, project documentation, and career insights on:
 - GitHub (you're here!)
-- [Medium] (https://medium.com/me/stories/public)
+- [Medium](https://medium.com/me/stories/public)
 - Various social media platforms
 
 ## 🤝 Let's Connect!
