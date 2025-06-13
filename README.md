@@ -14,7 +14,7 @@ I'm an Electronics Engineer who accidentally wandered into Data & AI <a href="ht
 - Writing Medium posts that start with “In today’s fast-paced digital world…”  
 - Trying to demystify data careers without turning into another LinkedIn influencer... 🤫 Sshhh I am a trying-hard *knowledgefluencer™*
 
-## 💡 Current Focus
+## 💡 Current Focus (Whenever I Can)
 
 I'm knee-deep in Full Stack Software Engineering (with a main quest in Data & AI wizardry), working on projects that combine data pipelines, APIs, machine learning, LLMs, AI Agents, (including all those Ops and anything trendy) and that one bug I swore I fixed yesterday.
 
