@@ -25,6 +25,17 @@ You can find my technical rants, tutorials, and semi-useful insights on:
 - ✍️ [Medium](https://medium.com/me/stories/public) — where I write articles instead of journaling and therapy  
 - 📱 Social media (where I try to be relevant)  
 - 🇵🇭 Local tech communities (because shouting into the void is more fun with friends)
+- 📺 You can also type in **Sandy Lauguico** on YouTube and see me talk about data and careers (like I already have it all figured out 😂)
+
+## 📍 Roadmaps for the Confused (Like Me)
+
+These are Notion roadmaps I made after several existential crises and too much caffeine:
+
+- 🗺️ [Data Analyst Roadmap](https://shadow-blue-572.notion.site/c3f88e41209349f6a0a18c40684a420a)  
+  *(For when Excel isn't enough and SQL becomes your love language)*
+
+- 🛠️ [Data Engineer Roadmap](https://shadow-blue-572.notion.site/b880b4ef0b1445aabec127442b97c79f?v=0a45fb3e2b5946d59708797eeea16671)  
+  *(For those who enjoy pipelines, logs, automation, and debugging things they definitely didn’t touch)*
 
 ## 🤝 Let’s Connect (Or Just Lurk — That’s Cool Too)
 
