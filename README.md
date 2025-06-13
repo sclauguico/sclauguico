@@ -1,6 +1,7 @@
 # 👋 Hey, I'm Sandy Lauguico — Just Another Nerd on the Internet
 
-I'm an Electrconics Engineer who accidentally wandered into Data & AI [(full gossip, I mean story here)] (https://www.linkedin.com/posts/activity-7006252743405305856-fCnt?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwHM-MBtcv4Wx2rOT7AlHx8hBUiK_lyKro), and now I pretend to know what I'm doing (spoiler: sometimes it works!). I build things that hopefully don’t crash, and occasionally write about them like I knew what I was doing all along.
+I'm an Electronics Engineer who accidentally wandered into Data & AI [(full gossip🍿here)](https://www.linkedin.com/posts/activity-7006252743405305856-fCnt?utm_source=share&utm_medium=member_desktop&rcm=ACoAABwHM-MBtcv4Wx2rOT7AlHx8hBUiK_lyKro), and now I pretend to know what I'm doing (spoiler: sometimes it works!). I build things that hopefully don’t crash, and occasionally write about them like I knew what I was doing all along.
+
 
 ## 💰 What I Do to Pay the Bills (and Feed My WiFi Addiction)
 
