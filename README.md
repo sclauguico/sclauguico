@@ -16,7 +16,7 @@ I'm an Electronics Engineer who accidentally wandered into Data & AI <a href="ht
 
 ## 💡 Current Focus
 
-I'm knee-deep in Full Stack Software Engineering (with a main quest in Data & AI wizardry), working on projects that combine data pipelines, APIs, machine learning, llms, AI agents, and that one bug I swore I fixed yesterday.
+I'm knee-deep in Full Stack Software Engineering (with a main quest in Data & AI wizardry), working on projects that combine data pipelines, APIs, machine learning, LLMs, AI Agents, (including all those Ops and anything trendy) and that one bug I swore I fixed yesterday.
 
 ## 📝 Content Creation (A.K.A. Talking to Myself on the Internet)
 
