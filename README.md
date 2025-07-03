@@ -41,7 +41,7 @@ These are Notion roadmaps I made after several existential crises and too much c
 ## 🤝 Let’s Connect (Or Just Lurk — That’s Cool Too)
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sandy-lauguico-257592111/) - Come for the resume, stay for "I am trying to be a 'professional' there"
-- 🌐 [sailauguico.io](https://sailauguico.io) - My corner of the internet, now 12% prettier (or geekier?) and proudly overpriced, when I could’ve just used a .xyz — courtesy of GoDaddy 💸
+- 🌐 [sailauguico.io](https://sailauguico.io) - My corner of the internet, now 12% prettier (or geekier?) and proudly overpriced, when I could’ve just used a .xyz, courtesy of GoDaddy 💸
   
 
 [![Buy Me a Coffee](buy-coffee-button%20(1).png)](https://buymeacoffee.com/sai_documents)
